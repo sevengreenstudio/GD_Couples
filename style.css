@@ -1,0 +1,41 @@
+.heart{
+    margin: 0;
+    margin-top: 3500px;
+    margin-left: 650px;
+    width: 800px;
+    position: absolute;
+    float: left;
+}
+.div *{
+    position: absolute;
+    float:left;
+}
+.G{
+    margin: 20px;
+    margin-top: 600px;
+    float: left;
+    width: 100vw;
+    height: auto;
+    font-size:500px;
+    font-family: 'f1';
+    float:left;
+}
+.D{
+    margin: 20px;
+    margin-top: 1500px;
+    margin-left: 200px;
+    float: left;
+    width: 100vw;
+    height: auto;
+    font-size:500px;
+    font-family: 'f1';
+    float:left;
+}
+h2{
+    margin: 0;
+    margin-top: 2500px;
+    width: 100vw;
+    font-size: 80px;
+    text-align: center;
+    float:left;
+}
